@@ -4,7 +4,7 @@ This repository contains the codes and the link to the data of our paper "Automa
 
 The dataset we have used in this work is the "TweepFake" dataset published by Fagni et. al. ([link to their paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251415), [link to the dataset files](https://www.kaggle.com/mtesconi/twitter-deep-fake-text)).
 
-The architecture of our model and full details are explained in our paper.
+The architecture of our model and the full details of our work are explained in our paper.
 
 
 If you use our work, please cite our paper:

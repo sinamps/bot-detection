@@ -10,4 +10,4 @@ The architecture of our model and the full details of our work are explained in 
 If you use our work, please cite our paper:
 
 
-To use our codes, pleas first read the code file "" no matter what model you want to run. This file includes comments that are required for running the all scripts. Please also make sure imports and data set file addresses are corrected in the code.
+To use our codes, pleas first read the code file "" no matter what model you want to run. This file includes comments that are required for running all of our scripts. Please also make sure imports and data set file addresses are corrected in the code.

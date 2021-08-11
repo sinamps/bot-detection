@@ -11,7 +11,8 @@ If you use our work, please cite our paper:
 
 
 To use our codes, please first read the script "t_bi_nv.py" no matter what model you want to run. This file includes comments that are required for running all of our scripts. Please also make sure imports and data set file addresses are corrected in the code.
-Association between our published scripts and the model configurations from our paper:
+
+Association between our published scripts and the model configurations from our paper is as follows:
  * For configurations Cfg 1, Cfg 2, Cfg 4, Cfg 7, Cfg 8, and Cfg 10, use "t_bi_nv.py".
  * For configurations Cfg 3 and Cfg 9, use "t.py"
  * For configuration Cfg 5, use "t_bi_ap.py"

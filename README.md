@@ -1,3 +1,4 @@
+# Automated Identification of Social Media Bot using Deepfake Text Detection
 # bot-detection
 
 This repository contains the codes and the link to the data of our paper "Automatic Identification of Social Media Bots using Deepfake Text Detection" for reproducibility purposes.

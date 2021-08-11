@@ -31,5 +31,6 @@ For running the GloVe model you also need:
  * gensim
  * tensorflow.keras
  * preprocessor
+
 You can install all of these dependencies using the pip package manager.
 For the fastText model, we just used the train_supervised function from fastText's text classification problem from [here](https://fasttext.cc/docs/en/supervised-tutorial.html).

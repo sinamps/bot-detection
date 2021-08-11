@@ -27,6 +27,7 @@ Some of the dependencies you need to have installed on the Python environment th
  * transformers
  * sklearn
  * pandas
+
 For running the GloVe model you also need:
  * gensim
  * tensorflow.keras

@@ -38,5 +38,6 @@ For the fastText model, we just used the train_supervised function from fastText
 
 The following table reports our hyperparameter:
 
-![Hyperparameters](/hyperparams.png | width=200)
+<img src="/hyperparams.png" width="100">
+<-- ![Hyperparameters](/hyperparams.png | width=200) -->
 

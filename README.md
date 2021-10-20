@@ -35,3 +35,7 @@ For running the GloVe model you also need:
 
 You can install all of these dependencies using the pip package manager.
 For the fastText model, we just used the train_supervised function from fastText's text classification problem from [here](https://fasttext.cc/docs/en/supervised-tutorial.html).
+
+The following table reports our hyperparameter:
+![Hyperparameters](/hyperparams.png)
+
